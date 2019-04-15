@@ -1,0 +1,14 @@
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\bin\Debug\MasGlobalTest_FT.BL.dll
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\bin\Debug\MasGlobalTest_FT.BL.pdb
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\bin\Debug\MasGlobalTest_FT.DAL.dll
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\bin\Debug\MasGlobalTest_FT.DAL.pdb
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\obj\Debug\MasGlobalTest_FT.BL.csprojAssemblyReference.cache
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\obj\Debug\MasGlobalTest_FT.BL.csproj.CoreCompileInputs.cache
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\obj\Debug\MasGlobalTest_FT.BL.csproj.CopyComplete
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\obj\Debug\MasGlobalTest_FT.BL.dll
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\obj\Debug\MasGlobalTest_FT.BL.pdb
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\bin\Debug\AutoMapper.dll
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\bin\Debug\System.ValueTuple.dll
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\bin\Debug\AutoMapper.pdb
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\bin\Debug\AutoMapper.xml
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.BL\bin\Debug\System.ValueTuple.xml

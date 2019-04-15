@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="~/Scripts/Employee/employee.js"></script>
+
+<h2>Employees</h2>
+
+<div class="jumbotron">
+    <div class="col-lg-10">
+        <div class="col-lg-8">
+            <input id="txtName" type="text" class="form-control" placeholder="Name of Employee"/>
+        </div>
+        <div class="col-lg-2">
+            <button class="btn btn-lg btn-primary" onclick="getEmployee()">Get Employees <i class="fas fa-search-plus"></i></button>
+        </div>
+    </div>
+
+    <div id="dvResult" class="col-lg-10" style="display: none">
+        <h3>Result</h3>
+        <hr />
+
+        <table id="tbEmployee" class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Employee</th>
+                    <th>Contract Type</th>
+                    <th>Annual Salary</th>
+                </tr>
+            </thead>
+            <tbody class="table-bordered"></tbody>
+        </table>
+    </div>
+</div>

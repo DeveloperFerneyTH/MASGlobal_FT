@@ -1,0 +1,9 @@
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.DAL\bin\Debug\MasGlobalTest_FT.DAL.dll
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.DAL\bin\Debug\MasGlobalTest_FT.DAL.pdb
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.DAL\obj\Debug\MasGlobalTest_FT.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.DAL\obj\Debug\MasGlobalTest_FT.DAL.dll
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.DAL\obj\Debug\MasGlobalTest_FT.DAL.pdb
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.DAL\bin\Debug\System.ValueTuple.xml
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.DAL\obj\Debug\MasGlobalTest_FT.DAL.csproj.CopyComplete
+C:\Users\Ferney\source\repos\MasGlobalTest_FT\MasGlobalTest_FT.DAL\obj\Debug\MasGlobalTest_FT.DAL.csprojAssemblyReference.cache
